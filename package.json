@@ -1,0 +1,16 @@
+{
+  "name": "okta-minimal-30dff9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc --outDir dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@okta/okta-auth-js": "^4.7.0",
+    "typescript": "^3.9.9"
+  }
+}
